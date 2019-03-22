@@ -1,4 +1,4 @@
-package isoccer;
+package clean.isoccer;
 
 import java.util.Scanner;
 

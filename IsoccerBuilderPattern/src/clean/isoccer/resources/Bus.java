@@ -1,4 +1,4 @@
-package isoccer.resources;
+package clean.isoccer.resources;
 
 public class Bus {
 

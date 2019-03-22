@@ -1,7 +1,7 @@
-package isoccer;
+package clean.isoccer;
 
-import isoccer.employees.*;
-import isoccer.resources.*;
+import clean.isoccer.employees.*;
+import clean.isoccer.resources.*;
 
 import javax.print.Doc;
 import java.util.ArrayList;

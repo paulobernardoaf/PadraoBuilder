@@ -1,4 +1,4 @@
-package isoccer.employees;
+package clean.isoccer.employees;
 
 public abstract class Employee{
 

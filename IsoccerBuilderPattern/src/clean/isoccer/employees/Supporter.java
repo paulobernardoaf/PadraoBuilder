@@ -1,4 +1,4 @@
-package isoccer.employees;
+package clean.isoccer.employees;
 
 public class Supporter extends Employee {
 
